@@ -1,0 +1,11 @@
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task2\Task5\bin\Debug\netcoreapp3.1\Task5.exe
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task2\Task5\bin\Debug\netcoreapp3.1\Task5.deps.json
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task2\Task5\bin\Debug\netcoreapp3.1\Task5.runtimeconfig.json
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task2\Task5\bin\Debug\netcoreapp3.1\Task5.runtimeconfig.dev.json
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task2\Task5\bin\Debug\netcoreapp3.1\Task5.dll
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task2\Task5\bin\Debug\netcoreapp3.1\Task5.pdb
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task2\Task5\obj\Debug\netcoreapp3.1\Task5.csprojAssemblyReference.cache
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task2\Task5\obj\Debug\netcoreapp3.1\Task5.AssemblyInfoInputs.cache
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task2\Task5\obj\Debug\netcoreapp3.1\Task5.AssemblyInfo.cs
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task2\Task5\obj\Debug\netcoreapp3.1\Task5.dll
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task2\Task5\obj\Debug\netcoreapp3.1\Task5.pdb
