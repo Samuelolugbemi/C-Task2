@@ -12,10 +12,11 @@ namespace Task7
             int workHour = Convert.ToInt32(Console.ReadLine());
             decimal grossPay = 0;
             int laterHour = workHour - 40;
+            decimal extraPay = 1.5M * laterHour;
             if(workHour <= 40){
                 grossPay = (decimal)hourlyRate * (decimal)workHour;
             } else if(workHour > 40){
-                grossPay = ((decimal)hourlyRate * 40M) + ((decimal)hourlyRate *1.5M* laterHour);
+                grossPay = ((decimal)hourlyRate * 40M) + ((decimal)hourlyRate * extraPay);
             }
             Console.WriteLine($"Pay for employee is {grossPay:C}");
         }
