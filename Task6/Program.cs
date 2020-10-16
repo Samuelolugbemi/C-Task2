@@ -6,9 +6,7 @@ namespace CalculatorTest
     {
         static void Main(string[] args)
         {
-            Calculator calculator = new Calculator();
-
-            Console.WriteLine("Console Calculator");
+           Console.WriteLine("Console Calculator");
 
             Console.Write("Please Enter First Number: ");
             double firstNum = Convert.ToDouble(Console.ReadLine());
